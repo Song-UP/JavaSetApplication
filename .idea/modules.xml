@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/责任链设计模式/Chain_lib.iml" filepath="$PROJECT_DIR$/责任链设计模式/Chain_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSetApplication.iml" filepath="$PROJECT_DIR$/JavaSetApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdesign_lib/mvpdesign_lib.iml" filepath="$PROJECT_DIR$/mvpdesign_lib/mvpdesign_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/单例设计模式/single_lib.iml" filepath="$PROJECT_DIR$/单例设计模式/single_lib.iml" />
+    </modules>
+  </component>
+</project>
