@@ -54,11 +54,11 @@ public class LoginActivity extends AppCompatActivity implements ILoginView {
             Toast.makeText(this, "登录失败", Toast.LENGTH_SHORT).show();
         }
     }
+    String passwor = et_password.getText().toString();
 
     @OnClick(R.id.et_name)
     public void onClcik(View v){
         String name = et_name.getText().toString();
-        String passwor = et_password.getText().toString();
         switch (v.getId()){
             case R.id.btn_login:
                 loginPresenterCompl.doLogin(name, passwor);
